@@ -1,2 +1,2 @@
 This is a demo of a machine learning model I created using GitHub Copilot that accurately predicts the class or species of the Iris flower using information such as sepal length, width, petal length and width.
-This demo uses the Iris Database to create a dataframe. Firstly pandas is used to create the dataframe, then seaborn and matplotlib to plot kde and histogram plots. This data is used to train a machine learning model of the randomforestgenerator algorithm using scikit-learn.
+This demo uses the Iris Database to create a dataframe. Firstly pandas is used to create the dataframe, then seaborn and matplotlib to plot kde and histogram plots. This data is used to train a machine learning model of the RandomForestClassifier (random state=42) algorithm using scikit-learn.
