@@ -1,0 +1,1 @@
+This is a demo of a machine learning model I created using GitHub Copilot that accurately predicts the class or species of the Iris flower using information such as sepal length, width, petal length and width.
